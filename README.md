@@ -4,7 +4,7 @@
 
 The **Interactive QA Bot with Document Upload** is a web application that allows users to upload PDF documents, process their content, and ask questions based on the documents. The application uses **Pinecone** for vector retrieval and **Cohere** for generating answers, providing accurate and context-aware responses.
 
-<p align = "center" width = 100% border-color = 'white'>
+<p align = "center" width = 100% border = 'white'>
     <img src = "Images/Banner.png" alt = "BannerImg">
 </p>
 
